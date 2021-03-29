@@ -1,16 +1,16 @@
 # Producto-de-unidad-3
 1.- OBJETIVOS
- - Objetivo general:
+ * Objetivo general:
 
-  - Aplicar los Teoremas de Circuitos y Conversiones para la comprensión y simplificación de circuitos de corriente alterna en serie-paralelo.
+  - Aplicar los sistemas trifásicos para la resolución de ejercicios en estrella y triángulo en generadores trifásicos.
   
- - Objetivos específicos:
+ * Objetivos específicos:
   
-  - Aplicar el teorema de Thevenin para simplificar circuitos (serie,paralelo y mixtos) reactivos de Corriente Alterna para su análisis.
+  - Estudiar los generadores trifásicos y las diferentes formulas para la resolución de los respectivos circuitos.
   
-  - Aplicar el teorema de transferencia de potencia máxima en circuitos mixtos.
+  - Aplicar las formulas de transformación en estrella a triángulo o viseversa para poder resolver facilmente los circuitos.
   
-  - Aplicar el teorema de Norton para simplificar circuitos (serie,paralelo y mixtos)  reactivos de Corriente Alterna para su análisis.
+  - Aplicar los circuitos en el laboratorio virtual DCACLAB para verificar los resultados.
   
 2.- MARCO TEÓRICO 
 
