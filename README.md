@@ -1,5 +1,6 @@
 # Producto-de-unidad-3
 * OBJETIVOS
+
  1.- Objetivo general:
 
   - Aplicar los sistemas trifásicos para la resolución de ejercicios en estrella y triángulo en generadores trifásicos.
