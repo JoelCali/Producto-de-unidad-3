@@ -20,3 +20,5 @@
 ![image](https://user-images.githubusercontent.com/76132461/112911833-d4e51880-90bb-11eb-8373-1f206415d3c4.png)
 
 3.- DIAGRAMAS
+
+![image](https://user-images.githubusercontent.com/76132461/112931832-78e1ba80-90e2-11eb-82a6-e4c7c1504b0b.png)
