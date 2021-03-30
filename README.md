@@ -55,7 +55,7 @@ Adicionalmente, podemos observar los voltajes cuando conectamos entre líneas y 
 
 6.- CONCLUSIONES
 
-7. BILBIOGRAFÍA 
+7.- BILBIOGRAFÍA 
 
 Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
 
