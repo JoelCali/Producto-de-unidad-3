@@ -29,6 +29,34 @@ En esta ocasión se ha realizado un circuito en PROTEUS, es una simulación de u
 
 Adicionalmente, podemos observar los voltajes cuando conectamos entre líneas y tambien cuando se conecta la línea con tierra, demostrando de esa manera el voltaje que pasa por nuestros hogares.
 
-3.- DIAGRAMAS
+4.1.- PROCEDIMIENTO
+
+1.- Realizamos el circuito en PROTEUS, por lo tanto debemos sacar los implementos
+
+2.- Sacamos de la libreria 3 fuentes AC las cuales se conectan entre ellas
+
+3.- Se configura cada una con el respectivo voltaje, el tiempo y la frecuencia
+
+4. Se pone etiquetas en cada salida para conectar hacia el motor trifásico
+
+5. Se conecta la resistencia de 10 k con el inductor y se realiza la misma conexión 2 veces más.
+
+6. Se conectan de la salida del inductor las 3 partes y se las envía hacia tierra.
+
+7. Del otro extremo de la resistencia se conecta hacia nuestras fuentes de voltaje alterno.
+
+8. Se conecta el osciloscopio a las fuentes de voltaje y se las configura.
+
+9. Con los dos voltímetros se mide el voltaje en las 2 líneas y el otro voltímetro al positivo y negativo.
+
+5.- APORTES
 
 ![image](https://user-images.githubusercontent.com/76132461/112931832-78e1ba80-90e2-11eb-82a6-e4c7c1504b0b.png)
+
+6.- CONCLUSIONES
+
+7. BILBIOGRAFÍA 
+
+Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
+
+
