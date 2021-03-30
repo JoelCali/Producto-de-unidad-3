@@ -26,6 +26,7 @@
 4.- EXPLICACIÓN
 
 En esta ocasión se ha realizado un circuito en PROTEUS, es una simulación de un motor trifásico, en el circuito se puede observar un osciloscopio en donde observamos las ondas de las tres líneas.
+
 Adicionalmente, podemos observar los voltajes cuando conectamos entre líneas y tambien cuando se conecta la línea con tierra, demostrando de esa manera el voltaje que pasa por nuestros hogares.
 
 3.- DIAGRAMAS
