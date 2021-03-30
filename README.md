@@ -11,7 +11,7 @@
   
   - Aplicar las formulas de transformación en estrella a triángulo o viseversa para poder resolver facilmente los circuitos.
   
-  - Aplicar los circuitos en el laboratorio virtual DCACLAB para verificar los resultados.
+  - Aplicar los circuitos en el laboratorio virtual Proteus para verificar los resultados.
   
 2.- MARCO TEÓRICO 
 
@@ -54,6 +54,13 @@ Adicionalmente, podemos observar los voltajes cuando conectamos entre líneas y 
 ![image](https://user-images.githubusercontent.com/76132461/112931832-78e1ba80-90e2-11eb-82a6-e4c7c1504b0b.png)
 
 6.- CONCLUSIONES
+
+* Reconocemos que un generador trifásico simple se compone de tres espiras conductoras separadas por 120° las cuales nos ayudan a diferenciar los distintos graddos  que se pueden observar en todo el plano cartesiano.
+
+* Al armar nuestro circuito en el emulador de Proteus, la reslucion de problemas se simplifico ya que las respuestas estaban visibles. Esto nos proporciono tambien a posible visualizacon de las 4 ondas senusoidales.
+
+* Observamos 3 ventajas de los sistemas trifásicos sobre los monofásicos son una sección transversal de cobre más pequeña para la misma potencia suministrada a la carga, una potencia constante suministrada a la carga,y un campo magnético rotatorio constante. 
+
 
 7.- BILBIOGRAFÍA 
 
