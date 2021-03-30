@@ -31,11 +31,11 @@ Adicionalmente, podemos observar los voltajes cuando conectamos entre líneas y 
 
 4.1.- PROCEDIMIENTO
 
-1.- Realizamos el circuito en PROTEUS, por lo tanto debemos sacar los implementos
+1. Realizamos el circuito en PROTEUS, por lo tanto debemos sacar los implementos
 
-2.- Sacamos de la libreria 3 fuentes AC las cuales se conectan entre ellas
+2. Sacamos de la libreria 3 fuentes AC las cuales se conectan entre ellas
 
-3.- Se configura cada una con el respectivo voltaje, el tiempo y la frecuencia
+3. Se configura cada una con el respectivo voltaje, el tiempo y la frecuencia
 
 4. Se pone etiquetas en cada salida para conectar hacia el motor trifásico
 
